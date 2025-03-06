@@ -112,6 +112,7 @@ This report provides a comprehensive overview of loan applications and funding d
 
 
 
+![Alt Text](IMG_20250224_234300.jpg)
+
 ![Alt Text]()
 
-![Alt Text](path/to/image.jpg)
