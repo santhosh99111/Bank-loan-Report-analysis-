@@ -107,8 +107,11 @@ Debt Consolidation: 2,377 applications
 
 
 Conclusion
+
 This report provides a comprehensive overview of loan applications and funding distribution within the institution. The notable high percentage of good loans and a rising trend in applications suggest positive growth in lending activities.
 
 
 
+![Alt Text]()
 
+![Alt Text](path/to/image.jpg)
